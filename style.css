@@ -1,0 +1,38 @@
+body{
+	text-align:center;
+	background:#764721;
+	padding:10px;
+	margin:10px;
+}
+h1{
+	font-family:sans-serif;
+	font-size:50px;
+	background:gray;
+}
+h2{
+	color:#45b6fe;
+	font-size:20px;
+}
+#image{
+	height:300px;
+	max-width:100%;
+	border: 1px solid #f67f17;
+}
+#img-caption{
+	font-family:'Georgia',sans-serif;
+	text-align:center;
+}
+#tribute-info{
+	text-align:center;
+	
+}
+p{
+	font-family:'Georgia',sans-serif;
+	text-align: left;
+}
+#tribute-link{
+	font-size:20px;
+}
+
+
+
